@@ -13,7 +13,7 @@ Check out my blog at [https://kleiton0x00.github.io](https://kleiton0x00.github.
 
 I'm **Kleiton Kurti**, a **security researcher** living in **Austria, AT**.
 
-I'm an InfoSec and Programmer enthusiast, specifically a 20 years old Penetration Tester from Albania. During the last 2 years, he has been participating in different Cyber Security Events and Competitions. His aim is to give a huge contribution in Security. Kleiton has been doing recently Bug Hunting, Security Research, Active Directory Pentesting & Penetration Softwares related to Web App Security and with the aim of improving the overall security.
+I am a self-taught Infosec guy from Albania. In my free time I like to do security researches, solve CTFs and publish infosec articles about uncommon and creative bugs I find during pentesting engagements as well as creating tools related to Web Security because of my passion for contributing to the infosec community.
 
 In free time I like solving CTF Challenges, specifically on HackTheBox platform. You can find me [here](https://www.hackthebox.eu/home/users/profile/172232).
 
