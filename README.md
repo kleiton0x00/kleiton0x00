@@ -2,7 +2,6 @@
 
 <a href="https://www.linkedin.com/in/kleiton-kurti-3210b31a2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/kleiton0x00/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
-![](https://camo.githubusercontent.com/b98035f1757446967ffdaf784c136b4e8039a05726d5de9969b4d431ce61100d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b6c6569746f6e30783030)
 
 Check out my blog at [https://kleiton0x00.github.io](https://kleiton0x00.github.io)!
 
