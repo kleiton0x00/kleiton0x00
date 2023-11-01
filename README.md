@@ -2,8 +2,9 @@
 
 <a href="https://www.linkedin.com/in/kleiton-kurti-3210b31a2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/kleiton0x00/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
+![](https://komarev.com/ghpvc/?username=kleiton0x00)  
 
-Check out my blog at [https://kleiton0x00.github.io](https://kleiton0x00.github.io)!
+Check out my blog at [https://kleiton0x00.github.io](https://kleiton0x00.github.io)!  
 
 ## About Me
 
@@ -28,6 +29,5 @@ In free time I like solving CTF Challenges, specifically on HackTheBox platform.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 ## Nerdy Stats
-
 ![kleiton0x00's github stats](https://github-readme-stats.vercel.app/api?username=kleiton0x00&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleiton0x00&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
